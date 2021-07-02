@@ -1,6 +1,6 @@
 '''
-MARIA GEOFANI NINDA MALO
-KELAS 2B
+peter affandi zebua
+KELAS 2A
 '''
 print("==============================================")
 print(" KANTIN UNIV. TEKNOLOGI INFORMASI ")
